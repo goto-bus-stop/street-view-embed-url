@@ -1,6 +1,6 @@
 {
   "name": "street-view-embed-url",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get a URL to the street view image currently shown in a street view embed, with matching heading and zoom",
   "main": "index.js",
   "exports": {
@@ -14,7 +14,7 @@
     "lint": "standard",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["google", "street view"],
   "license": "MIT",
   "devDependencies": {
     "standard": "^17.0.0"
